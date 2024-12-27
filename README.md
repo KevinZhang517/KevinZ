@@ -1,4 +1,4 @@
-# KevinZ
+#Self-introduction-generator
 An app can generate your self-introduction.
 Language:Chinese!!!
 As a beginner in Python, I have created two very simple programs. These programs can automatically generate .txt or .docx self-introduction files based on the information you provide. They are very simple and serve merely as a record of my learning achievements.
